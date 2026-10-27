@@ -1,0 +1,2 @@
+/* Versione italiana: widget ufficiale attivato su richiesta del proprietario; acquisto non verificato. */
+window.ATLAS_UPSELL=Object.freeze({productName:"Metafore per aprire il dialogo",currency:"EUR",price:20,hotmartWidgetEnabled:true,hotmartWidgetInstalled:true,hotmartPurchaseTested:false,productVerified:false,offerConfigured:false,legalComplete:false,guaranteeDays:null,supportEmail:"",legalOwner:"",accessUrl:"https://consumer.hotmart.com/",hotmartScript:"https://checkout.hotmart.com/lib/hotmart-checkout-elements.js"});
